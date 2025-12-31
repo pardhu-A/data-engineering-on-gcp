@@ -8,6 +8,7 @@ These are the pre-requisite skills for the course.
 * Basic understanding of Command Line tools such as powershell
 * If you are new to Data Engineering, make sure to take our Data Engineering Essentials course.
 
+
 ## Overview of Cloud Platforms
 Let us get an overview of Cloud Platforms.
 * Quick Setup
